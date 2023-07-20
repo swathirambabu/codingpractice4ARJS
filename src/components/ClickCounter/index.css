@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #f1f5f8;
+  height: 100vh;
+  text-align: center;
+}
+.heading {
+  font-family: roboto;
+  font-size: 36px;
+  font-weight: bold;
+  color: #2d3a35;
+  text-align: center;
+}
+.span {
+  font-family: roboto;
+  font-size: 36px;
+  font-weight: bold;
+  color: #c20a72;
+  text-align: center;
+}
+.description {
+  font-family: roboto;
+  font-size: 20px;
+  text-align: center;
+
+  color: #2d3a35;
+}
+.button {
+  border: 5px;
+  padding: 5px;
+  color: white;
+  background-color: #007bff;
+  text-align: center;
+  font-size: 10px;
+}
